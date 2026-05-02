@@ -1,0 +1,9 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+dated_output/
+dated_failed/

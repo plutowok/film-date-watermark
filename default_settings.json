@@ -1,0 +1,24 @@
+{
+  "date_format": "yyyy.mm.dd",
+  "prefix": "",
+  "suffix": "",
+  "color_rgb": [
+    218,
+    134,
+    0
+  ],
+  "opacity": 0.65,
+  "font_size_ratio": 0.02,
+  "margin_ratio": 0.02,
+  "bottom_margin_ratio": 0.054,
+  "font_path": "字体库/Bitcount_Grid_Single/BitcountGridSingle-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf",
+  "output_dir_name": "dated_output",
+  "failed_dir_name": "dated_failed",
+  "use_file_mtime_fallback": false,
+  "use_unified_date": false,
+  "unified_date": null,
+  "second_line_mode": "off",
+  "occasion_prefix": "",
+  "occasion_date": null,
+  "custom_text": ""
+}
