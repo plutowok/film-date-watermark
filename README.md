@@ -210,4 +210,4 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 
 ## License
 
-如果你准备公开分发或二次开发，建议补充明确的许可证文件，例如 `MIT`、`Apache-2.0` 或其他适合你的协议。
+
